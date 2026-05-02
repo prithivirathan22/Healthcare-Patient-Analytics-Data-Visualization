@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-teal)
-![Internship](https://img.shields.io/badge/Thiranex-Internship-purple)
  
 This project explores a healthcare patient analytics dataset using **Python, Matplotlib, and Seaborn** to uncover meaningful patterns in patient demographics, treatment types, costs, and readmission risks.
 
