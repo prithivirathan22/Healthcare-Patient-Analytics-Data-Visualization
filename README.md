@@ -4,8 +4,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-teal)
 ![Internship](https://img.shields.io/badge/Thiranex-Internship-purple)
-
-A data visualization project built as part of the **Thiranex Data Science Internship**.  
+ 
 This project explores a healthcare patient analytics dataset using **Python, Matplotlib, and Seaborn** to uncover meaningful patterns in patient demographics, treatment types, costs, and readmission risks.
 
 ---
